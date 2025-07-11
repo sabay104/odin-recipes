@@ -1,0 +1,42 @@
+body{
+    font-family: Arial;
+}
+
+img{
+    height: 300px;
+}
+
+h3{
+    background-color: yellow;
+    color: blue;
+    width: 100px;
+    padding: 10px;
+}
+
+p2{
+    font-size: 20px;
+
+
+
+}
+
+ul{
+    background-color: blueviolet;
+    width: 300px;
+    margin: 10px;
+
+}
+
+ol{
+    background-color: hotpink;
+    width: 300px;
+    margin: 10px;
+}
+
+a{
+    font-size: 30px;
+}
+
+a:visited {
+    color: hotpink;
+}

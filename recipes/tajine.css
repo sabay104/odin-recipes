@@ -4,6 +4,7 @@ body{
 
 img{
     height: 300px;
+    border: 3px solid black;
 }
 
 h3{
@@ -11,6 +12,7 @@ h3{
     color: blue;
     width: 100px;
     padding: 10px;
+    border: 1px solid black;
 }
 
 p2{
@@ -24,6 +26,7 @@ ul{
     background-color: blueviolet;
     width: 300px;
     margin: 10px;
+    border: 1px solid black;
 
 }
 
@@ -31,6 +34,7 @@ ol{
     background-color: hotpink;
     width: 300px;
     margin: 10px;
+    border: 1px solid black;
 }
 
 a{
